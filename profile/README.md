@@ -19,7 +19,7 @@ Develop and launch **Local.Ind**, an e-commerce platform aimed at promoting loca
 
 
 ## Timelines
-![Timelines](profile/Schedule.png)
+![Schedule](profile/Schedule.png)
 
 
 ## Deliverables
